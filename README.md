@@ -77,4 +77,4 @@ Tabel hasil agregasi dari 3 tabel (`kf_final_transaction`, `kf_product`, `kf_kan
 
 **Maura Aristy**
 Big Data Analytics Intern - Rakamin x Kimia Farma
-[LinkedIn](https://linkedin.com/in/maura-aristy) | mathemauraa@gmail.com
+[LinkedIn](https://linkedin.com/in/maura-aristy) | maurarsty@gmail.com
