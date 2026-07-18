@@ -71,7 +71,7 @@ Tabel hasil agregasi dari 3 tabel (`kf_final_transaction`, `kf_product`, `kf_kan
 
 ## 🎥 Video Presentasi
 
-🔗 Link video: **(menyusul)**
+🔗 Link video: **https://bit.ly/explanation-video-bda-kimiafarma-maura-aristy**
 
 ## 👩‍💻 Author
 
